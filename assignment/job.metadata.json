@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"assignment.job"}],"uuid":"f816d4f7bf8c4ff9bde936118a64f0f9"}
